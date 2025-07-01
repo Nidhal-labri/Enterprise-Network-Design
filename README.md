@@ -1,3 +1,4 @@
+
 # Enterprise Network Design - VLAN, HSRP, OSPF, DHCP, NAT & VoIP
 
 This project represents a Cisco Packet Tracer topology simulating an enterprise-level network infrastructure. It demonstrates:
@@ -9,6 +10,10 @@ This project represents a Cisco Packet Tracer topology simulating an enterprise-
 - VoIP and Telephony setup
 
 The network design follows a core-distribution-access model with proper IP addressing, routing, and high availability. Below are the configuration blocks categorized by device.
+
+## 📌 Network Topology
+
+![Network Topology](image_2025-07-01_16-01-24.png)
 
 ---
 
@@ -264,7 +269,7 @@ end
 
 ## 📌 Network Topology
 
-![Network Topology](image_2025-07-01_16-01-24.png)
+![Network Topology](![image_2025-07-01_16-01-24](https://github.com/user-attachments/assets/fa594f78-1857-482c-bd80-3dc001609a09))
 
 ---
 
