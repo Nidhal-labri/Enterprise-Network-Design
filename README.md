@@ -267,13 +267,6 @@ end
 ```
 
 ---
-
-## 📌 Network Topology
-
-![Network Topology](![image_2025-07-01_16-01-24](https://github.com/user-attachments/assets/fa594f78-1857-482c-bd80-3dc001609a09))
-
----
-
 ## 👨‍💻 Author
 
 Nidhal Labri – [LinkedIn](https://www.linkedin.com/in/nidhal-labri/)
