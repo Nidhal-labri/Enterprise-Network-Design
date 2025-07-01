@@ -13,7 +13,8 @@ The network design follows a core-distribution-access model with proper IP addre
 
 ## 📌 Network Topology
 
-![image_2025-07-01_16-01-24](https://github.com/user-attachments/assets/17abb8c2-2ecd-45d3-b798-01c96d2c10ee)
+![image_2025-07-01_16-26-45](https://github.com/user-attachments/assets/e82d62de-43b8-419c-bab8-13f6a0e104b0)
+
 
 ---
 
